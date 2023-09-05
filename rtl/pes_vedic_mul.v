@@ -1,4 +1,4 @@
-module vedic8x8(input [7:0] a,b, output [15:0] prod);
+module pes_vedic_mul(input [7:0] a,b, output [15:0] prod);
 
 	wire [7:0] mult0, mult1, mult2, mult3;
 	wire [7:0] sum0;

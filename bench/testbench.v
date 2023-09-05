@@ -1,4 +1,4 @@
-module test;
+module pes_vedic_mul;
 
 	reg [7:0] a,b;
 	wire [15:0] prod;

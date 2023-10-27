@@ -27,14 +27,51 @@ iverilog  vedic8x8.v vedic4x4.v vedic2x2.v ripple_adder_12bit.v ripple_adder_8bi
 
 ### RTL Synthesis :
 ```
-read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib  
+read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+```
+
+<p align="center">
+  <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/583e15eb-8225-4f84-9622-3782bda5ec2f" alt="Image" width="900">
+</p>
+
+
+```
 read_verilog vedic8x8.v vedic4x4.v vedic2x2.v ripple_adder_12bit.v ripple_adder_8bit.v ripple_adder_6bit.v ripple_adder_4bit.v full_adder.v half_adder.v
+```
+
+<p align="center">
+  <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/ae4dbbd9-ee20-4bc1-a73c-47363145d360" alt="Image" width="900">
+</p>
+
+```
 synth -top vedic8x8
+```
+
+<p align="center">
+  <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/a980079c-a78d-4d31-a438-6c85f4f8bd7e" alt="Image" width="900">
+</p>
+
+```
 abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
+```
+
+<p align="center">
+  <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/a461c035-065a-49b0-820b-d654f81580f8" alt="Image" width="900">
+</p>
+
+```
 flatten
-show 
+```
+
+<p align="center">
+  <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/a202aeb7-537a-4433-b3c9-ba056a10ce78" alt="Image" width="900">
+</p>
+
+```
+show
 write_verilog -noattr pes_vedic.v
 ```
+
 <p align="center">
   <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/54cc24da-3d53-4390-b4b0-9e8cb0f3a12a" alt="Image" width="900">
 </p>

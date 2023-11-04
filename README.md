@@ -183,17 +183,23 @@ all the designs are meeting setup and hold requirements
   <img src="https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/2196cfda-454d-41b5-9dbf-2c7a4272882f" alt="Image" width="900">
 </p>
 
+
+
 ### Floorplan:
+![Screenshot from 2023-11-04 13-52-08](https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/3c8f5168-e995-4880-8792-96d3044815f0)
 
 ### Placements:
+![Screenshot from 2023-11-04 13-53-32](https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/48021b04-b92d-4d06-a442-4fda1e628009)
 
 ### CTS:
+![Screenshot from 2023-11-04 13-56-52](https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/c4405f89-4b49-4a94-9031-42964fcb98f3)
+
 
 ### Routing:
+![Screenshot from 2023-11-04 13-55-27](https://github.com/VardhanSuroshi/pes_vedic_mul/assets/132068498/b38cf326-f7c5-4e61-b00e-e88571ef885b)
 
-### Physical verification:
 
-### final GDS file :
+### Final GDS file :
 
 ```
 klayout -e -nn $PDK_ROOT/sky130A/libs.tech/klayout/tech/sky130A.lyt    -l $PDK_ROOT/sky130A/libs.tech/klayout/tech/sky130A.lyp    ./openlane/pes_vedic_mul/runs/run_4/results/final/gds/pes_vedic_mul.gds

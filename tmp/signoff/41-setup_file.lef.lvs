@@ -1,0 +1,1 @@
+lvs {/openlane/openlane/pes_vedic_mul/runs/run_4/results/signoff/pes_vedic_mul.spice pes_vedic_mul} {/openlane/openlane/pes_vedic_mul/runs/run_4/tmp/signoff/38-pes_vedic_mul.pnl.v pes_vedic_mul} /home/vardhan/.volare/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/openlane/pes_vedic_mul/runs/run_4/logs/signoff/41-pes_vedic_mul.lef.lvs.log -json

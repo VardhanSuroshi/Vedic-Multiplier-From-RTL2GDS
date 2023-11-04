@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 17499 19643
+string GDS_END 1215972
+string GDS_FILE /openlane/openlane/pes_vedic_mul/runs/run_4/results/signoff/pes_vedic_mul.magic.gds
+string GDS_START 331526
+<< end >>

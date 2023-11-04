@@ -1,0 +1,20 @@
+
+60. Executing CHECK pass (checking for obvious problems).
+Checking module pes_vedic_mul...
+Warning: Wire pes_vedic_mul.\prod [15] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [14] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [13] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [12] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [11] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [10] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [9] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [8] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [7] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [6] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [5] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [4] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [3] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [2] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [1] is used but has no driver.
+Warning: Wire pes_vedic_mul.\prod [0] is used but has no driver.
+Found and reported 16 problems.

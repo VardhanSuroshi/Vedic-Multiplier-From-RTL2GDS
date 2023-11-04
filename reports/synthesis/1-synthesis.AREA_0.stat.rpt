@@ -1,0 +1,49 @@
+
+61. Printing statistics.
+
+=== pes_vedic_mul ===
+
+   Number of wires:                317
+   Number of wire bits:            346
+   Number of public wires:           3
+   Number of public wire bits:      32
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                330
+     sky130_fd_sc_hd__a211o_2        1
+     sky130_fd_sc_hd__a21bo_2        3
+     sky130_fd_sc_hd__a21boi_2       3
+     sky130_fd_sc_hd__a21o_2        15
+     sky130_fd_sc_hd__a21oi_2       19
+     sky130_fd_sc_hd__a22o_2        14
+     sky130_fd_sc_hd__a22oi_2        3
+     sky130_fd_sc_hd__a31o_2         7
+     sky130_fd_sc_hd__a32o_2         1
+     sky130_fd_sc_hd__and2_2        22
+     sky130_fd_sc_hd__and2b_2        5
+     sky130_fd_sc_hd__and3_2        31
+     sky130_fd_sc_hd__and3b_2        1
+     sky130_fd_sc_hd__and4_2         3
+     sky130_fd_sc_hd__buf_1         15
+     sky130_fd_sc_hd__inv_2         12
+     sky130_fd_sc_hd__nand2_2       35
+     sky130_fd_sc_hd__nand3_2        6
+     sky130_fd_sc_hd__nand4_2        2
+     sky130_fd_sc_hd__nor2_2        26
+     sky130_fd_sc_hd__nor3_2         1
+     sky130_fd_sc_hd__o2111a_2       3
+     sky130_fd_sc_hd__o21a_2         2
+     sky130_fd_sc_hd__o21ai_2        9
+     sky130_fd_sc_hd__o21bai_2       1
+     sky130_fd_sc_hd__o31a_2         2
+     sky130_fd_sc_hd__or2_2         19
+     sky130_fd_sc_hd__or2b_2         6
+     sky130_fd_sc_hd__or3_2         12
+     sky130_fd_sc_hd__or3b_2         1
+     sky130_fd_sc_hd__or4_2          1
+     sky130_fd_sc_hd__xnor2_2       22
+     sky130_fd_sc_hd__xor2_2        27
+
+   Chip area for module '\pes_vedic_mul': 2922.803200
+

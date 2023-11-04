@@ -1,0 +1,19 @@
+Design Name: pes_vedic_mul
+Run Directory: /openlane/openlane/pes_vedic_mul/runs/run_4
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/openlane/pes_vedic_mul/runs/run_4/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/openlane/pes_vedic_mul/runs/run_4/logs/signoff/41-pes_vedic_mul.lef.lvs.log
+Number of nets: 400                        |Number of nets: 400                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/openlane/pes_vedic_mul/runs/run_4/logs/signoff/43-arc.log
+Pin violations: 0
+Net violations: 0

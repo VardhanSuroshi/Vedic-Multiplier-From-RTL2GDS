@@ -1,7 +1,7 @@
 # Design: 8-bit Vedic Multiplier 
 
 ## About the repository
-Welcome to my GitHub repository dedicated to VLSI Physical Design for ASICs using open-source tools! Here, we embark on a journey that starts with specifications and build it from scratch, taking them through the entire RTL to GDS process that meets various Performance, Power, Area ( PPA ) and manufacturability requirements. The best part? We're doing it all with open-source tools, including the RISC-V toolchain, OpenLane and many more.
+Welcome to my GitHub repository dedicated to VLSI ASIC Design for ASICs using open-source tools! Here, we embark on a journey that starts with specifications and build the Design from scratch, taking them through the entire RTL to GDS process that meets various Performance, Power, Area ( PPA ) and manufacturability requirements. The best part? We're doing it all with open-source tools.
 
 ## 8-bit Vedic Multiplier  
 Multiplication is one of the primary arithmetic operations every application demands. A large number of multiplier designs have been developed to enhance their speed. Active research over decades has led to the emergence of Vedic Multipliers as one of the fastest and low power multipliers over traditional array and booth multipliers. Vedic Multiplier deals with a total of sixteen sutras or algorithms for predominantly logical operations. A large number of them have been proposed using Urdhava Tiryakbhyam sutra rendering them most efficient in terms of speed. 
